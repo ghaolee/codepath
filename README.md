@@ -5,7 +5,7 @@ Changes text and background colour randomly when button is pushed. Text can also
 
 ### App Walk-though
 
-<img src="http://recordit.co/f0gEpdd4sL" width=200><br>
+<img src="http://g.recordit.co/f0gEpdd4sL.gif" width=200><br>
 
 ### Required User Stories
 - [x ] 1. User sees custom text in a label - Hello from {name}!
